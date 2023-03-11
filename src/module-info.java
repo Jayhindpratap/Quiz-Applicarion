@@ -1,0 +1,2 @@
+module Quiz.Application2 {
+}
